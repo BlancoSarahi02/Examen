@@ -16,9 +16,6 @@ def manzana(datos):
     datos.sort()
     return datos[mitad]
 
-lista=[1,4,3]
-print(manzana(lista))
-
 import random
 
 def gen_manzana(n):
